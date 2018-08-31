@@ -56,7 +56,6 @@
 				echo "<p><img class='ftperfil' src='foto/$id.jpg' /></p>";
 	
 			}
-				echo "<p>$titulo</p>";
 				echo "<p>$inicio</p>";
 				echo "<p>$local</p>";
 	include('phpqrcode/qrlib.php');
